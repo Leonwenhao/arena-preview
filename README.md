@@ -88,7 +88,7 @@ Study 2 is a design, not a result.
 ## Availability
 
 The WAGMI Bench harness, golden fixture and agent adapter:
-[github.com/DoloresResearch/wagmi-bench](https://github.com/DoloresResearch/wagmi-bench)
+[github.com/Dolores-Research/wagmi-bench](https://github.com/Dolores-Research/wagmi-bench)
 
 ## Disclosure
 
@@ -106,6 +106,6 @@ future performance.
   author = {{Dolores Research}},
   year   = {2026},
   month  = {8},
-  url    = {https://github.com/DoloresResearch/arena-preview}
+  url    = {https://github.com/Dolores-Research/arena-preview}
 }
 ```
